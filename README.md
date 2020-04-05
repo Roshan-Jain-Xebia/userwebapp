@@ -60,6 +60,7 @@ Password=root
 *****
 
 <h3>Code Coverage</h3>
+mvn org.jacoco:jacoco-maven-plugin:prepare-agent install
 http://localhost:63342/assignment/target/site/jacoco/index.html
 
 <h3>Security Details</h3>
