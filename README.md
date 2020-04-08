@@ -42,8 +42,8 @@ slf4j\
 Spring Test\
 Jacoco\
 Swagger\
-Intellij\
-Postman
+Postman\
+Intellij
 
 <h3>Build and Deployment</h3>
 build  war  >> mvn install\
