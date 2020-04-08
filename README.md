@@ -37,10 +37,13 @@ Spring Boot\
 Spring Security\
 Hibernate\
 H2\
+Hazelcast\
+slf4j\
 Spring Test\
 Jacoco\
 Swagger\
 Intellij\
+Postman
 
 <h3>Build and Deployment</h3>
 build  war  >> mvn install\
